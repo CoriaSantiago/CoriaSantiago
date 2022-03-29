@@ -1,0 +1,5 @@
+- Hi, I’m @CoriaSantiago
+- I’m interested in programming web pages using HTML5, CSS3 and Javascript.
+- I’m currently learning JavaScript and CSS3
+- I’m looking to collaborate on different proyects!
+- How to reach me: coriasantiatomas@gmail.com
